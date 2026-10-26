@@ -1,4 +1,4 @@
-function themeSelection(){
+export function themeSelection(){
     return(
         <>
         <section id="top-center">
