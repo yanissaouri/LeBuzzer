@@ -18,3 +18,5 @@ function JoinRoom(){
         </>
     )
 }
+
+export default JoinRoom
